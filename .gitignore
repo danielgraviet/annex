@@ -1,0 +1,20 @@
+# Next.js
+.next/
+out/
+node_modules/
+*.tsbuildinfo
+next-env.d.ts
+
+# Python / UV
+__pycache__/
+*.py[cod]
+.venv/
+dist/
+*.egg-info/
+.uv/
+
+# Misc
+.DS_Store
+.env
+.env.local
+.env*.local
